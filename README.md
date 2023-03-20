@@ -6,4 +6,4 @@
 
 ## Содержание :  
 ###       Введение. Основы Python:
-####       * Python. Знакомство с консолью
+####       * ![Python. Знакомство с консолью](Programming Python/Basics Python.ipynb)

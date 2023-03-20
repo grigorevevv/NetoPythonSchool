@@ -2,8 +2,9 @@
 
  Здесь я собрал свои проекты, которые разрабатывал в последенее время. В первую очередедь здесь содержится проекты по обучению на курсах, с целью показать показать мои навыки и знания в различных областях программирования и разработки. А также есть проекты непосредственно связанные с работой(они будут добавлены в ближайшее время)
 
-![fon](img/SQL-s-Python.jpg)
+![fon](https://github.com/grigorevevv/NetoPythonSchool/blob/main/Img/SQL-s-Python.jpg)
+
 
 ## Содержание :  
 ###       Введение. Основы Python:
-[text](Programming Python/Basics Python.ipynb)
+[Python. Знакомство с консолью](https://github.com/grigorevevv/NetoPythonSchool/blob/main/Programming%20Python/Basics%20Python.ipynb)

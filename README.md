@@ -7,4 +7,5 @@
 
 ## Содержание :  
 ###       Введение. Основы Python:
-[Python. Знакомство с консолью](https://github.com/grigorevevv/NetoPythonSchool/blob/main/Programming%20Python/Basics%20Python.ipynb)
+           1. [Python. Знакомство с консолью](https://github.com/grigorevevv/NetoPythonSchool/blob/main/Programming%20Python/Basics%20Python.ipynb)
+           2. d

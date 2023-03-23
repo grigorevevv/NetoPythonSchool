@@ -12,4 +12,4 @@
 3. [Циклы](https://github.com/grigorevevv/NetoPythonSchool/blob/main/Programming%20Python/cycles.ipynb)
 4. [Коллекции данных. Словари. Множества.](https://github.com/grigorevevv/NetoPythonSchool/blob/main/Programming%20Python/Dictionaries.Sets.ipynb)
 5. [Функции](https://github.com/grigorevevv/NetoPythonSchool/blob/main/Programming%20Python/functions.ipynb)
-6. [ООП: объекты и классы.] ([В процессе работы...](https://github.com/grigorevevv/NetoPythonSchool/blob/main/Programming%20Python/objects_and_classes/README_2.md))
+6. [ООП: объекты и классы.](https://github.com/grigorevevv/NetoPythonSchool/blob/main/Programming%20Python/objects_and_classes/README_2.md))
